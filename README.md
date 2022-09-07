@@ -27,7 +27,7 @@ Note: when first running this patch, the default values for some of the underlyi
 
 ## How it works!
 
-/Users/johnsloan/Music/droid-patches/supergrids/Screen Shot 2022-09-06 at 9.30.10 PM.png
+![](ButtonLayout.png)
 
 The main idea, is that you use the selectors on the upper right side (marked select1...8) to pick which tracks you want to edit, and then use the knobs up top to change different parameters for those tracks. The parameters that the knobs up top represent change based on which mode you are in. The list of modes is as follows:
 
